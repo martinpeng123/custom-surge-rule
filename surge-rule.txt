@@ -1,0 +1,3 @@
+DOMAIN-SUFFIX,ehome.com,DIRECT
+DOMAIN-SUFFIX,*.ehome.com,DIRECT
+DOMAIN-SUFFIX,patient.com,DIRECT
