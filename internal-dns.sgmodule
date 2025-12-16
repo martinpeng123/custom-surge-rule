@@ -1,0 +1,6 @@
+#!name=内部DNS配置
+#!desc=指定域名使用内部DNS服务器(192.168.40.20)
+
+[Host]
+*.ehome.com = server:192.168.40.20
+*.zkjs.com = server:192.168.40.20
