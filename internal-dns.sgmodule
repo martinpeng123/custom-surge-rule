@@ -4,3 +4,7 @@
 [Host]
 *.ehome.com = server:192.168.40.20
 *.zkjs.com = server:192.168.40.20
+
+[Rule]
+# 直连规则
+DOMAIN-SUFFIX,de5.net,DIRECT
