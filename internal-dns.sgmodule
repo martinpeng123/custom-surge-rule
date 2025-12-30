@@ -8,3 +8,6 @@
 [Rule]
 # 直连规则
 DOMAIN-SUFFIX,de5.net,DIRECT
+DOMAIN-SUFFIX,pp.ua,DIRECT
+DOMAIN-SUFFIX,wzw.pp.ua,DIRECT
+
